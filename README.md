@@ -1,4 +1,5 @@
 # Automated System Health Monitor with AI Alerts
+🚀 [Live Demo](automated-system-health-monitor-with-ai-alerts ∙ main ∙ app/ui.py)
 
 An AI-assisted system monitoring application built with Python that tracks system resources, monitors running processes, detects abnormal resource usage, stores historical metrics, and generates AI-powered recommendations.
 
