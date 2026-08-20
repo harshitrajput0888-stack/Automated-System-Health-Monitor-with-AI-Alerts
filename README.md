@@ -23,8 +23,7 @@ An AI-assisted system monitoring application built with Python that tracks syste
 
 ## Technologies Used
 
-🚀 Live Demo
-
+## 🚀 Live Demo
 🚀 [Automated System Health Monitor with AI Alerts](https://github.com/harshitrajput0888-stack/Automated-System-Health-Monitor-with-AI-Alerts)
 
 - Python
