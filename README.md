@@ -42,8 +42,8 @@ An automated system monitoring application built with Python to monitor system r
 
 ## Project Structure
 
-
-Automated-System-Health-Monitor-with-AI-Alerts/
+```text
+Automated-System-Health-Monitor-with-AI-Alerts
 │
 ├── app/
 │   ├── __init__.py
@@ -75,6 +75,8 @@ Automated-System-Health-Monitor-with-AI-Alerts/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+
+```
 
 ## How It Works
 
@@ -117,8 +119,13 @@ Current test coverage includes:
 
 Run the tests using:
 
-
+```bash
 pytest
+```
+Expected result:
+
+
+10 passed
 
 ## Configuration
 
@@ -126,17 +133,18 @@ The application uses environment-based configuration to securely manage the Hugg
 
 Create a `.env` file in the project root:
 
-
+```text
 HF_TOKEN=your_huggingface_token
+```
 
 ## Running the Application
-
+```bash
 Activate the virtual environment on Windows:
-
+```
 .\venv\Scripts\Activate.ps1
-
+```bash
 Install the required dependencies:
-
+```
 pip install -r requirements.txt
 
 Run the command-line monitoring engine:
