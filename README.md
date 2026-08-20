@@ -1,5 +1,4 @@
 # Automated System Health Monitor with AI Alerts
-🚀 [Live Demo](https://automated-system-health-monitor-with-ai-alerts.streamlit.app/)
 
 An AI-assisted system monitoring application built with Python that tracks system resources, monitors running processes, detects abnormal resource usage, stores historical metrics, and generates AI-powered recommendations.
 
@@ -23,6 +22,10 @@ An AI-assisted system monitoring application built with Python that tracks syste
 - Automated testing with pytest
 
 ## Technologies Used
+
+🚀 Live Demo
+
+🚀 [Automated System Health Monitor with AI Alerts](https://github.com/harshitrajput0888-stack/Automated-System-Health-Monitor-with-AI-Alerts)
 
 - Python
 - Streamlit
