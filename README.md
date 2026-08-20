@@ -38,7 +38,7 @@ An automated system monitoring application built with Python to monitor system r
 
 ## 🚀 Live Demo
 
-[Automated-System-Health-Monitor-with-AI-Alerts](automated-system-health-monitor-with-ai-alerts∙main∙app/ui.py)
+[Automated-System-Health-Monitor-with-AI-Alerts](https://automated-system-health-monitor-with-ai-alerts.streamlit.app/)
 
 ## Project Structure
 
